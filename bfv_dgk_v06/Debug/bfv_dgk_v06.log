@@ -1,0 +1,5 @@
+﻿  bfv_dgk_v06.cpp
+  ntt.cpp
+C:\Users\tzxku\source\repos\bfv_dgk_v06\bfv_dgk_v06\ntt.cpp(44,16): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'seal.lib'
